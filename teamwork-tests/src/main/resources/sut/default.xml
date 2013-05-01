@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><sut validators="">
+    <Web>
+        <class>org.jsystemtest.teamworkso.Web</class>
+        <url>http://topquser.seetodos.com</url>
+        <browserType>chrome</browserType>
+    </Web>
+</sut>
